@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	color: #ffffff;
+}
+
+#line {
+	background-color: red;
+	height: 3px;
+	border: none;
+}
+
+#hr {
+	height: 5px;
+	width: 50%;
+} 
+
+.text {
+	color: #ff0000;
+}
+
+.text1 {
+	color: #66ff00;
+}

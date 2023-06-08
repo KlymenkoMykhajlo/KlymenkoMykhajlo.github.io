@@ -1,0 +1,31 @@
+body {
+	font-size: 130%;
+	background-color: black;
+	color: #ffffff;
+	font-family: Open Sans, sans-serif;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+#image1 {
+    float: left;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+
+#image2 {
+    float: right;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+a {
+	color:#ffffff;
+	text-decoration: none;
+}
+
+#line3 {
+    height: 5px;
+    background-color: #0462d4;
+    border: none;
+}

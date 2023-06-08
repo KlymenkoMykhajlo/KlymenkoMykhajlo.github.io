@@ -1,0 +1,36 @@
+body {
+    font-size: 130%;
+    line-height: 120%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+h1 {
+    margin: 5%;
+}
+
+h2 {
+    margin: 5%;
+}
+
+.image1 {
+    float: left;
+    margin-right: 2%;
+    margin-top: 2%;
+}
+
+.image2 {
+    float: right;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.line3 {
+    height: 5px;
+    background-color: #0462d4;
+    border: none;
+}
+
+#Mars {
+    margin-top: 10%;
+}

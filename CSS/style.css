@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+	color: #ffffff;
+    font-size: 120%;
+}
+
+#line {
+	background-color: red;
+	height: 3px;
+	border: none;
+}
+
+#hr {
+	height: 5px;
+	width: 50%;
+} 
+
+.text {
+	color: #ff0000;
+}
+
+.text1 {
+	color: #66ff00;
+}
+
+#blue {
+    color: rgb(0, 0, 255)
+}
+
+li{
+    margin-bottom:1%;
+}
+
+#planets {
+    color: #235ee8; 
+}
+
+#BlueLine {
+    background-color:rgb(0, 0, 255);
+    height: 3px;
+    border: none;
+}
+
+#SolarSystem {
+	border: #235ee8 solid 2px;
+}
